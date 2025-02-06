@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<INDIAN TOURISM DESTINATIONS>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
